@@ -7,7 +7,7 @@ Presentation slides from [TAFS (Time Series Analysis and Forecasting Society)](h
 | Date | Title | Speaker |
 |------|-------|---------|
 | June 2024 | Evaluating Forecasts and Accuracy Metrics | Nikolaos Kourentzes |
-| May 2023 | Multivariate Granger Causality and Non-Gaussian Processes | - |
+| May 2023 | Multivariate Granger Causality and Non-Gaussian Processes | RNDr.CSc. Katerina Schindlerova (Hlavackova-Schindler) |
 | October 2022 | Hidden Markov Models for Predicting Failure Events | Paul Hofmann |
 | September 2022 | Forecasting and Analytics with ADAM | Ivan Svetunkov |
 
